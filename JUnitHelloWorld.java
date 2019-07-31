@@ -6,7 +6,5 @@ public class JUnitHelloWorld {
         System.out.println("Hello World everybody");
      }
  
-    public boolean isGreater(int num1, int num2){
-        return num1 > num2;
-    }
+   
 }
